@@ -4,68 +4,26 @@
   <asx:values>
    <DD01V>
     <DOMNAME>ZDOM_DOMAINTEST</DOMNAME>
-    <DDLANGUAGE>DE</DDLANGUAGE>
+    <DDLANGUAGE>D</DDLANGUAGE>
     <DATATYPE>CHAR</DATATYPE>
     <LENG>000001</LENG>
-    <OUTPUTLEN>000001</OUTPUTLEN>
+    <OUTPUTLEN>000002</OUTPUTLEN>
     <VALEXI>X</VALEXI>
     <DDTEXT>Domaintest</DDTEXT>
-    <DOMMASTER>DE</DOMMASTER>
+    <DOMMASTER>D</DOMMASTER>
    </DD01V>
    <DD07V_TAB>
     <DD07V>
      <VALPOS>0001</VALPOS>
-     <DDLANGUAGE>DE</DDLANGUAGE>
-     <DOMVALUE_L>M</DOMVALUE_L>
-     <DDTEXT>Sehr geehrter Herr, DE </DDTEXT>
-    </DD07V>
-    <DD07V>
-     <VALPOS>0002</VALPOS>
-     <DDLANGUAGE>DE</DDLANGUAGE>
-     <DOMVALUE_L>F</DOMVALUE_L>
-     <DDTEXT>Sehr geehrte Frau, DE </DDTEXT>
-    </DD07V>
-   </DD07V_TAB>
-   <DD07V_TAB>
-    <DD07V>
-     <VALPOS>0001</VALPOS>
      <DDLANGUAGE>D</DDLANGUAGE>
      <DOMVALUE_L>M</DOMVALUE_L>
-     <DDTEXT>Sehr geehrter Herr, D</DDTEXT>
+     <DDTEXT>Sehr geehrter Herr</DDTEXT>
     </DD07V>
     <DD07V>
      <VALPOS>0002</VALPOS>
      <DDLANGUAGE>D</DDLANGUAGE>
      <DOMVALUE_L>F</DOMVALUE_L>
-     <DDTEXT>Sehr geehrte Frau, D</DDTEXT>
-    </DD07V>
-   </DD07V_TAB>
-   <DD07V_TAB>
-    <DD07V>
-     <VALPOS>0001</VALPOS>
-     <DDLANGUAGE>EN</DDLANGUAGE>
-     <DOMVALUE_L>M</DOMVALUE_L>
-     <DDTEXT>Sehr geehrter Herr, EN</DDTEXT>
-    </DD07V>
-    <DD07V>
-     <VALPOS>0002</VALPOS>
-     <DDLANGUAGE>EN</DDLANGUAGE>
-     <DOMVALUE_L>F</DOMVALUE_L>
-     <DDTEXT>Sehr geehrte Frau, EN</DDTEXT>
-    </DD07V>
-   </DD07V_TAB>
-   <DD07V_TAB>
-    <DD07V>
-     <VALPOS>0001</VALPOS>
-     <DDLANGUAGE></DDLANGUAGE>
-     <DOMVALUE_L>M</DOMVALUE_L>
-     <DDTEXT>Sehr geehrter Herr, leer</DDTEXT>
-    </DD07V>
-    <DD07V>
-     <VALPOS>0002</VALPOS>
-     <DDLANGUAGE></DDLANGUAGE>
-     <DOMVALUE_L>F</DOMVALUE_L>
-     <DDTEXT>Sehr geehrte Frau, leer</DDTEXT>
+     <DDTEXT>Sehr geehrte Frau</DDTEXT>
     </DD07V>
    </DD07V_TAB>
   </asx:values>
