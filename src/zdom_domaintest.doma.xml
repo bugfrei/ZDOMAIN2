@@ -17,13 +17,55 @@
      <VALPOS>0001</VALPOS>
      <DDLANGUAGE>D</DDLANGUAGE>
      <DOMVALUE_L>M</DOMVALUE_L>
-     <DDTEXT>Sehr geehrter Herr</DDTEXT>
+     <DDTEXT>Sehr geehrter Herr, D</DDTEXT>
     </DD07V>
     <DD07V>
      <VALPOS>0002</VALPOS>
      <DDLANGUAGE>D</DDLANGUAGE>
      <DOMVALUE_L>F</DOMVALUE_L>
-     <DDTEXT>Sehr geehrte Frau</DDTEXT>
+     <DDTEXT>Sehr geehrte Frau, D</DDTEXT>
+    </DD07V>
+   </DD07V_TAB>
+   <DD07V_TAB>
+    <DD07V>
+     <VALPOS>0001</VALPOS>
+     <DDLANGUAGE>DE</DDLANGUAGE>
+     <DOMVALUE_L>M</DOMVALUE_L>
+     <DDTEXT>Sehr geehrter Herr, DE</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0002</VALPOS>
+     <DDLANGUAGE>DE</DDLANGUAGE>
+     <DOMVALUE_L>F</DOMVALUE_L>
+     <DDTEXT>Sehr geehrte Frau, DE</DDTEXT>
+    </DD07V>
+   </DD07V_TAB>
+   <DD07V_TAB>
+    <DD07V>
+     <VALPOS>0001</VALPOS>
+     <DDLANGUAGE>EN</DDLANGUAGE>
+     <DOMVALUE_L>M</DOMVALUE_L>
+     <DDTEXT>Sehr geehrter Herr, EN</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0002</VALPOS>
+     <DDLANGUAGE>EN</DDLANGUAGE>
+     <DOMVALUE_L>F</DOMVALUE_L>
+     <DDTEXT>Sehr geehrte Frau, EN</DDTEXT>
+    </DD07V>
+   </DD07V_TAB>
+   <DD07V_TAB>
+    <DD07V>
+     <VALPOS>0001</VALPOS>
+     <DDLANGUAGE></DDLANGUAGE>
+     <DOMVALUE_L>M</DOMVALUE_L>
+     <DDTEXT>Sehr geehrter Herr, leer</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0002</VALPOS>
+     <DDLANGUAGE></DDLANGUAGE>
+     <DOMVALUE_L>F</DOMVALUE_L>
+     <DDTEXT>Sehr geehrte Frau, leer</DDTEXT>
     </DD07V>
    </DD07V_TAB>
   </asx:values>
