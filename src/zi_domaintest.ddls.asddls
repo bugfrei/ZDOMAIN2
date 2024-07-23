@@ -7,7 +7,7 @@
   sizeCategory: #S,
   dataClass: #MIXED
 }
-define view entity ZI_DOMAINTEST as select from DDCDS_CUSTOMER_DOMAIN_VALUE_T( p_domain_name: 'Z08_DOMAIN/ZDOM_DOMAINTEST'  )
+define view entity ZI_DOMAINTEST as select from DDCDS_CUSTOMER_DOMAIN_VALUE_T( p_domain_name: 'ZDOM_DOMAINTEST'  )
 {
  key domain_name,
  key value_position,
